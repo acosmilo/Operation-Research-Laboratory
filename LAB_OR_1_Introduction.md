@@ -26,7 +26,7 @@ we sale them with a price of:
 
 ## Model the problem of Linear Programation
 
-See LAB_IO_1_Introduction.pdf
+See LAB_OR_1_Introduction.pdf
 
 ## Use the graphic method to solve the problem
 
