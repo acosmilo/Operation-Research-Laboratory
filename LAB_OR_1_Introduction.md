@@ -20,15 +20,16 @@ we sale them with a price of:
 
 ## Activities
 
-1) Empirically finds the best solution
-2) Model the problem of Linear Programation
-3) Use the graphic method to solve the problem
+1) Model the problem of Linear Programation
+2) Use the graphic method to solve the problem
 
-## Model the problem of Linear Programation
+## Process
+
+### 1) Model the problem of Linear Programation
 
 See LAB_OR_1_Introduction.pdf
 
-## Use the graphic method to solve the problem
+### 2) Use the graphic method to solve the problem
 
 - Se comienza graficando las inecuaciones de cada restricción. Graficar una inecuación consiste en primero graficar la recta de la ecuación y despues sombrear la región a la que la inecuación hace referencia. Consideren $x_1$ el eje x y $x_2$ el eje y.
 
