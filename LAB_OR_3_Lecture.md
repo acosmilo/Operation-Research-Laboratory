@@ -19,9 +19,9 @@ we sale them with a price of:
 
 ## Activities
 
-1) Resolve the LP Model with Excel
-2) Compare
-3) Make a report about it
+1) Resolve the LP Model with ORtools
+2) Compare the solution with graphical method and Excel Solver
+3) Make a report about it. 
 
 ## Process
 
