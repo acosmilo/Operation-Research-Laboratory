@@ -8,15 +8,18 @@ And also the toys are made it with:
 - Speed Car:  1X chasis (EW13), 2X blue lego blocks 2x6 (RE54), 2X red lego blocks 2x2 (RE52).
 
 Our problem is we had the constrain of inventory per day:
-- 10 EW13
-- 12 RE54
-- 9 RE52
+
+    - 10 EW13
+    - 12 RE54
+    - 9 RE52
 
 
 Our boss want to know how many SEDAN and Speed Cars we need to produce per day. If we want to increase our  earninggs to the maximum possible value
 we sale them with a price of:
-- SEDAN: $3
-- Speed Car: $2,5
+
+    - SEDAN: $3
+    - Speed Car: $2,5
+
 
 ## Activities
 
@@ -57,33 +60,40 @@ https://github.com/acosmilo/Operation-Research-Laboratory/blob/main/LAB_OR_1_Rep
 
 ## Problem 2 (Video): Hacer Sanduches
 
-Vamos a empezar con nuestro emprendimiento de sanduches: MIXTO y cuadruple Queso. 
-Los cuales se conforman de 
-- MIXTO Tocino : 2x rebanadas, 1x jamon, 1x queso
-- Doble Queso:  3x rebanadas,  4x queso, 
+Let's start with our sandwich business: the MIXTO and the Double Cheese. These consist of:
 
-Tenemos una limitación en el inventario, diariamente disponemos de:
-- 10 rebanadas
-- 12 jamón
-- 9 queso
+    MIXTO (Bacon): 2 slices of bread, 1 slice of ham, 1 slice of cheese
+    Double Cheese: 3 slices of bread, 4 slices of cheese,
 
-Queremos ganar mucha plata, ¿Cuántos sanduches debemos producir al dia para maximizar las ganancias? Si por sanduche ganamos 
-- MIXTO $2
-- QUESO $2.1
+We have limited inventory; daily we have:
 
+    10 slices of bread
+    12 slices of ham
+    9 slices of cheese
 
-Ejemplo de Rúbrica: Bien 1 Mal 0
-- Si no esta hecho a mano es cero
-- Definir los conjuntos, parámetros y variables (si no esta hecho bien, tal como esta en el material, tiene cero)
-- Modelo Expandido (si no esta hecho bien, tal como esta en el material, tiene cero)
-- Solucion por medio del método gráfico hecho a mano (si no esta hecho bien, tal como esta se hizo en la clase, usando regla calculando y dibujando la recta, verificando cual es la región que se pinta, claculando los puntos de intersección, tiene cero, no vale graficadoras ni saltarse los pasos)
-- Conclusión escrita (cual es la solución optima tomando en cuenta unidades de las var decisión y las ganancias obtenidas, si no esta hecho bien es cero)
+We want to make a lot of money. How many sandwiches should we produce per day to maximize profits? If we earn per sandwich
+
+    MIXTO $2
+    CHEESE $2.1
+
+Rubric Example: Good 1 Bad 0
+
+    If not done by hand, it’s a zero
+    Define the sets, parameters, and variables (if not done correctly, as shown in the material, it’s a zero)
+    Expanded Model (if not done correctly, as shown in the material, it gets a zero)
+    Solution using the hand-drawn graphical method (if not done correctly, as done in class—using a ruler to calculate and draw the line, verifying which region is shaded, and calculating the intersection points—it gets a zero; graphing calculators are not allowed, nor is skipping steps)
+    Written conclusion (what is the optimal solution, taking into account the units of the decision variables and the profits obtained; if not done correctly, it is zero)
+
+## Problem 3: Operational Research, Hiller
+
+<img width="483" height="337" alt="imagen" src="https://github.com/user-attachments/assets/598b303d-4d10-435b-8d9d-d46a9256cd9e" />
+
+## Problem 4: Operational Research, Taha
+
 
 ## Jeopardy
 
 Let's play
-
-https://jeopardylabs.com/play/mtodo-grfico
 
 
 
