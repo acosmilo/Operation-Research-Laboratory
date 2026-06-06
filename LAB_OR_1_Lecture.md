@@ -76,7 +76,6 @@ Rúbrica: Valido por un punto extra al proyecto: Bien 1 Mal 0
 - Si no esta hecho a mano es cero
 - Definir los conjuntos, parámetros y variables (si no esta hecho bien, tal como esta en el material, tiene cero)
 - Modelo Expandido (si no esta hecho bien, tal como esta en el material, tiene cero)
-- Modelo Generalizado (si no esta hecho bien, tal como esta en el material, tiene cero)
 - Solucion por medio del método gráfico hecho a mano (si no esta hecho bien, tal como esta se hizo en la clase, usando regla calculando y dibujando la recta, verificando cual es la región que se pinta, claculando los puntos de intersección, tiene cero, no vale graficadoras ni saltarse los pasos)
 - Conclusión escrita (cual es la solución optima tomando en cuenta unidades de las var decisión y las ganancias obtenidas, si no esta hecho bien es cero)
 
