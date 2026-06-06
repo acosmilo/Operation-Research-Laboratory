@@ -1,7 +1,7 @@
 # LAB_OR_1_Lecture
 
 
-## Problem 1 TOYCARS
+## Problem 1: TOYCARS
 First, in a groups of 3 people. Imagine you are going to sale 2 types of toycars: SEDAN and Speed Car. 
 And also the toys are made it with:
 - SEDAN: 1X chasis (EW13), 4X blue lego blocks 2x6 (RE54), 2X red lego blocks 2x2 (RE52).
@@ -22,12 +22,14 @@ we sale them with a price of:
 
 1) Model the problem of Linear Programation
 2) Use the graphic method to solve the problem
+3) Make a Report
 
 ## Process
 
 ### 1) Model the problem of Linear Programation
 
-See LAB_OR_1_Introduction.pdf
+See https://github.com/acosmilo/Operation-Research-Laboratory/blob/main/LAB_OR_1_Report.pdf
+
 
 ### 2) Use the graphic method to solve the problem
 
@@ -50,12 +52,10 @@ Z(3, 0) =3(3)+2.5(0) =9
 ## Solucion.
 Diariamente deben producirse 1.5 SEDANS y 3 Speed Cars, para maximizar los ingresos. Esta es la solucipon más óptima.
 
-## Entregable "Punto Extra: Por venir el primer dia"
-Individual.
-A mano en hojas.
-Al final toman foto y suben al D2L, carpeta "Punto Extra: Por venir el primer dia"
-Pongan su nombre.
-Resolver el siguiente ejercicio.
+### Make a Report
+https://github.com/acosmilo/Operation-Research-Laboratory/blob/main/LAB_OR_1_Report.pdf
+
+## Problem 2 (Video): Hacer Sanduches
 
 Vamos a empezar con nuestro emprendimiento de sanduches: MIXTO y cuadruple Queso. 
 Los cuales se conforman de 
@@ -80,8 +80,11 @@ Rúbrica: Valido por un punto extra al proyecto: Bien 1 Mal 0
 - Solucion por medio del método gráfico hecho a mano (si no esta hecho bien, tal como esta se hizo en la clase, usando regla calculando y dibujando la recta, verificando cual es la región que se pinta, claculando los puntos de intersección, tiene cero, no vale graficadoras ni saltarse los pasos)
 - Conclusión escrita (cual es la solución optima tomando en cuenta unidades de las var decisión y las ganancias obtenidas, si no esta hecho bien es cero)
 
+## Jeopardy
 
+Let's play
 
+https://jeopardylabs.com/play/mtodo-grfico
 
 
 
