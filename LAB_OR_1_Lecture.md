@@ -72,7 +72,7 @@ Queremos ganar mucha plata, ¿Cuántos sanduches debemos producir al dia para ma
 - QUESO $2.1
 
 
-Rúbrica: Valido por un punto extra al proyecto: Bien 1 Mal 0
+Ejemplo de Rúbrica: Bien 1 Mal 0
 - Si no esta hecho a mano es cero
 - Definir los conjuntos, parámetros y variables (si no esta hecho bien, tal como esta en el material, tiene cero)
 - Modelo Expandido (si no esta hecho bien, tal como esta en el material, tiene cero)
