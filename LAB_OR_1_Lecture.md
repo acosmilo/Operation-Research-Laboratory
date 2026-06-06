@@ -84,6 +84,15 @@ Rubric Example: Good 1 Bad 0
     Solution using the hand-drawn graphical method (if not done correctly, as done in class—using a ruler to calculate and draw the line, verifying which region is shaded, and calculating the intersection points—it gets a zero; graphing calculators are not allowed, nor is skipping steps)
     Written conclusion (what is the optimal solution, taking into account the units of the decision variables and the profits obtained; if not done correctly, it is zero)
 
+### Solution (Video)
+
+- PARTE I: https://youtu.be/80S1DIiUO_o
+- PARTE II: https://youtu.be/cmoAo3yvbfg
+- PARTE III: https://youtu.be/BJ8VRXut1aU
+- PARTE IV: https://youtu.be/l8KqftOEeh8
+- PARTE V: https://youtu.be/KpLREyWRCJ8
+    
+
 ## Problem 3: Operational Research, Hiller
 
 <img width="483" height="337" alt="imagen" src="https://github.com/user-attachments/assets/598b303d-4d10-435b-8d9d-d46a9256cd9e" />
