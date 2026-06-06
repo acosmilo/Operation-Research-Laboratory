@@ -49,10 +49,10 @@ Z(0, 4.5) =3(0)+2.5(4.5) =11.25
 Z(1.5, 3) =3(1.5)+2.5(3) =12
 Z(3, 0) =3(3)+2.5(0) =9
 
-## Solucion.
+#### Solucion.
 Diariamente deben producirse 1.5 SEDANS y 3 Speed Cars, para maximizar los ingresos. Esta es la solucipon más óptima.
 
-### Make a Report
+### 3) Make a Report
 https://github.com/acosmilo/Operation-Research-Laboratory/blob/main/LAB_OR_1_Report.pdf
 
 ## Problem 2 (Video): Hacer Sanduches
