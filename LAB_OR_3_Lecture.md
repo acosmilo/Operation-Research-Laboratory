@@ -71,18 +71,16 @@ We want to make a lot of money. How many sandwiches should we produce per day to
 
 ### Activities
 
-    1) Use Solver from Excel to solve the problem and compare with  the graphic method 
-    2) Make a Sensibility Analysis
+    1) Use ORTOOLS from Python to solve the problem and compare with  the graphic method 
+    2) Make a Sensibility Analysis with Python
     2) Make a Report
 
 ### Solution (Video)
 
 #### 1) Use Solver from Excel to solve the problem and compare with  the graphic method 
-Parte I: https://youtu.be/MM4x5NDrUok
-
+Parte I: 
 #### 2) Make a Sensibility Analysis
-Parte II: https://youtu.be/DjvpedlHdjQ
-Individual.
+Parte II:
 
 Entregar un reporte en PDF que debe tener:
 
