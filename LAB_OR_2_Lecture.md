@@ -83,9 +83,9 @@ We want to make a lot of money. How many sandwiches should we produce per day to
 Parte I: https://youtu.be/MM4x5NDrUok
 
 #### 2) Make a Sensibility Analysis
-Parte II: 
+Parte II: https://youtu.be/DjvpedlHdjQ
 
-
+## Problem 3 (Video): Exercicio de Hiller para el deber 1
 Entregar un reporte en PDF que debe tener:
 
 La caratula oficial (Si no pones tu nombre o no pones la caratula no vale este entregable)
