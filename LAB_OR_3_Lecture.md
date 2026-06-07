@@ -78,7 +78,7 @@ We want to make a lot of money. How many sandwiches should we produce per day to
 ### Solution (Video)
 
 #### 1) Use Solver from Excel to solve the problem and compare with  the graphic method 
-Parte I: 
+Parte I: https://youtu.be/NDIqUcJBVy4
 #### 2) Make a Sensibility Analysis
 Parte II:
 
