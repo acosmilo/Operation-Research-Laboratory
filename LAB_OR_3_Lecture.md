@@ -51,10 +51,37 @@ Diariamente deben producirse 1.5 SEDANS y 3 Speed Cars, para maximizar los ingre
 
 ### 3) Report  
 
+## Problem 2 (Video): Hacer Sanduches
 
+Let's start with our sandwich business: the MIXTO and the Double Cheese. These consist of:
 
-## Problema 2, You will solve this problem 
+    MIXTO: 2 slices of bread, 1 slice of ham, 1 slice of cheese
+    Double Cheese: 3 slices of bread, 4 slices of cheese,
 
+We have limited inventory; daily we have:
+
+    10 slices of bread
+    12 slices of ham
+    9 slices of cheese
+
+We want to make a lot of money. How many sandwiches should we produce per day to maximize profits? If we earn per sandwich
+
+    MIXTO $2
+    CHEESE $2.1
+
+### Activities
+
+    1) Use Solver from Excel to solve the problem and compare with  the graphic method 
+    2) Make a Sensibility Analysis
+    2) Make a Report
+
+### Solution (Video)
+
+#### 1) Use Solver from Excel to solve the problem and compare with  the graphic method 
+Parte I: https://youtu.be/MM4x5NDrUok
+
+#### 2) Make a Sensibility Analysis
+Parte II: https://youtu.be/DjvpedlHdjQ
 Individual.
 
 Entregar un reporte en PDF que debe tener:
