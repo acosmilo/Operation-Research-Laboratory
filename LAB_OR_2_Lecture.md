@@ -71,14 +71,19 @@ We want to make a lot of money. How many sandwiches should we produce per day to
     MIXTO $2
     CHEESE $2.1
 
-## Activities
+### Activities
 
     1) Use Solver from Excel to solve the problem and compare with  the graphic method 
+    2) Make a Sensibility Analysis
     2) Make a Report
-    
-## Process
-### 1) Use Solver from Excel to solve the problem and compare with  the graphic method 
 
+### Solution (Video)
+
+#### 1) Use Solver from Excel to solve the problem and compare with  the graphic method 
+Parte I: https://youtu.be/MM4x5NDrUok
+
+#### 2) Make a Sensibility Analysis
+Parte II: 
 
 
 Entregar un reporte en PDF que debe tener:
