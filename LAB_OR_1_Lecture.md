@@ -76,6 +76,12 @@ We want to make a lot of money. How many sandwiches should we produce per day to
     MIXTO $2
     CHEESE $2.1
 
+## Activities
+
+    1) Model the problem of Linear Programation
+    2) Use the graphic method to solve the problem
+    3) Make a Report
+
 Rubric Example: Good 1 Bad 0
 
     If not done by hand, it’s a zero
